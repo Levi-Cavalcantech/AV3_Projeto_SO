@@ -366,7 +366,7 @@ Saída esperada do comando `tree`:
 
 > 📸 *Sugestão: inclua aqui um print da execução do simulador no terminal.*
 >
-> `![Execução do simulador](docs/execucao.png)`
+> ![Execução do simulador](docs/execucao.png)
 
 ### 5.6. Persistência e Recuperação
 
